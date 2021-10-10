@@ -1,6 +1,3 @@
-### 2021년 9월 6일 ~  
-### 1일 1커밋하기😄 
-___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seong-wooo&show_icons=true&theme=radical)
 
 
