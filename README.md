@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seong-wooo&show_icons=true&theme=radical)
-
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=seongwoo0513)](https://solved.ac/seongwoo0513)
 
 
 <!--
