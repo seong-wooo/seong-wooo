@@ -2,7 +2,7 @@
 ___
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongwoo0513)](https://solved.ac/seongwoo0513)
 ___
-내 블로그 [바로가기](https://park-algorithm.tistory.com/)
+# 내 블로그 [바로가기](https://park-algorithm.tistory.com/)
 <!--
 **seong-wooo/seong-wooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
