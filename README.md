@@ -1,10 +1,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seong-wooo&show_icons=true&theme=radical)
-___
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongwoo0513)](https://solved.ac/seongwoo0513)
-___
-# [블로그](https://park-algorithm.tistory.com/)
 
-# 2021 UOSPC 금상([서울시립대 총장배 ‘제5회 컴퓨터 알고리즘 프로그래밍 경진대회(UOSPC)’ 개최](http://www.dhnews.co.kr/news/articleView.html?idxno=201779)) 
+---
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongwoo0513)](https://solved.ac/seongwoo0513)
+
+---
+
+##### - [블로그](https://park-algorithm.tistory.com/)
+
+##### - 2021 UOSPC 금상([서울시립대 총장배 ‘제5회 컴퓨터 알고리즘 프로그래밍 경진대회(UOSPC)’ 개최](http://www.dhnews.co.kr/news/articleView.html?idxno=201779) - 기사 사진 가운데)
+
 <!--
 **seong-wooo/seong-wooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
