@@ -9,7 +9,7 @@
 ##### - [블로그](https://park-algorithm.tistory.com/)
 
 ##### - 2021 UOSPC 금상([서울시립대 총장배 ‘제5회 컴퓨터 알고리즘 프로그래밍 경진대회(UOSPC)’ 개최](https://uos.ac.kr/korColumn/view.do?list_id=about02&seq=242&sort=5&menuid=2000001009005000000))
-
+##### - 우아한테크코스 4기
 <!--
 **seong-wooo/seong-wooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
