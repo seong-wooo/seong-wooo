@@ -9,8 +9,8 @@ I am currently working as a **researcher at TmaxTibero DB Research Headquarters*
   - Major: Electronic Computer Engineering 
 
 ### Experience 📚
-- Woowacourse 4th BackEnd (2022.02 ~ 2022.11)
-- Software Maestro 14th (2023.04 ~ 2023.12)
+- **Woowacourse 4th BackEnd** (2022.02 ~ 2022.11)
+- **Software Maestro 14th** (2023.04 ~ 2023.12)
 
 ### Contact 📮
-Email : tjddn0513@gmail.com
+Email : **tjddn0513@gmail.com**
